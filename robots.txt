@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+https://sitemap.chatverso.com/sitemap/sitemap_chatverso.xml
